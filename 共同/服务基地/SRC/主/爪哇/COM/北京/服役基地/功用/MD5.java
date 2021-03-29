@@ -31,6 +31,7 @@ public final class MD5 {
 
     public static void main(String[] args) {
         System.out.println(MD5.encrypt("111111"));
+        System.out.println("邢道荣");
     }
 
 }
